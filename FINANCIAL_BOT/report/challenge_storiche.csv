@@ -1,0 +1,649 @@
+configurazione;partenza;fase1;giorni_fase1;peggior_perdita_giornaliera_pct;fase2;giorni_fase2;finanziato_6_mesi;payout_6_mesi;equity_finale_finanziato;entrambe_superate
+Qualita' (predefinita);2011-02-01;superata;22;1,375;superata;85,0;aperta;4204,43;93637,59;True
+Qualita' (predefinita);2011-03-01;superata;5;1,147;superata;88,0;aperta;0,0;93219,3;True
+Qualita' (predefinita);2011-04-01;superata;76;1,234;superata;4,0;aperta;0,0;92321,92;True
+Qualita' (predefinita);2011-05-01;superata;41;1,141;superata;17,0;aperta;0,0;93219,3;True
+Qualita' (predefinita);2011-06-01;superata;20;1,141;superata;17,0;aperta;0,0;93219,3;True
+Qualita' (predefinita);2011-07-01;superata;18;1,141;superata;4,0;aperta;0,0;92321,92;True
+Qualita' (predefinita);2011-08-01;persa;132;1,625;;;;0,0;;False
+Qualita' (predefinita);2011-09-01;persa;110;1,0;;;;0,0;;False
+Qualita' (predefinita);2011-10-01;aperta;236;1,592;;;;0,0;;False
+Qualita' (predefinita);2011-11-01;aperta;236;1,635;;;;0,0;;False
+Qualita' (predefinita);2011-12-01;aperta;236;1,174;;;;0,0;;False
+Qualita' (predefinita);2012-01-01;aperta;237;1,335;;;;0,0;;False
+Qualita' (predefinita);2012-02-01;superata;109;1,405;persa;157,0;;0,0;;False
+Qualita' (predefinita);2012-03-01;superata;9;1,337;superata;22,0;aperta;1786,01;102302,58;True
+Qualita' (predefinita);2012-04-01;superata;11;1,4;superata;57,0;aperta;0,0;93161,06;True
+Qualita' (predefinita);2012-05-01;superata;45;1,474;persa;164,0;;0,0;;False
+Qualita' (predefinita);2012-06-01;superata;15;1,125;superata;6,0;aperta;872,82;94451,55;True
+Qualita' (predefinita);2012-07-01;superata;12;1,281;persa;157,0;;0,0;;False
+Qualita' (predefinita);2012-08-01;persa;151;1,01;;;;0,0;;False
+Qualita' (predefinita);2012-09-01;superata;17;1,01;persa;111,0;;0,0;;False
+Qualita' (predefinita);2012-10-01;superata;142;1,042;superata;7,0;aperta;0,0;95087,78;True
+Qualita' (predefinita);2012-11-01;persa;88;1,0;;;;0,0;;False
+Qualita' (predefinita);2012-12-01;superata;99;1,277;superata;7,0;aperta;0,0;95087,78;True
+Qualita' (predefinita);2013-01-01;superata;79;0,986;superata;7,0;aperta;0,0;95087,78;True
+Qualita' (predefinita);2013-02-01;superata;48;1,053;superata;9,0;aperta;0,0;94434,76;True
+Qualita' (predefinita);2013-03-01;superata;33;1,133;superata;9,0;aperta;0,0;94434,76;True
+Qualita' (predefinita);2013-04-01;superata;7;0,849;superata;7,0;aperta;7055,61;94934,09;True
+Qualita' (predefinita);2013-05-01;superata;10;1,16;superata;199,0;aperta;11778,4;111275,13;True
+Qualita' (predefinita);2013-06-01;superata;201;1,575;superata;53,0;aperta;13235,66;103772,36;True
+Qualita' (predefinita);2013-07-01;superata;175;1,481;superata;5,0;aperta;13695,62;99244,37;True
+Qualita' (predefinita);2013-08-01;superata;47;1,286;superata;99,0;aperta;11778,4;111275,13;True
+Qualita' (predefinita);2013-09-01;superata;133;1,481;superata;5,0;aperta;13695,62;99244,37;True
+Qualita' (predefinita);2013-10-01;superata;108;1,409;superata;11,0;aperta;13695,62;99244,37;True
+Qualita' (predefinita);2013-11-01;superata;88;1,409;superata;11,0;aperta;13695,62;99244,37;True
+Qualita' (predefinita);2013-12-01;superata;67;1,458;superata;1,0;aperta;13556,83;111557,33;True
+Qualita' (predefinita);2014-01-01;superata;27;1,386;superata;22,0;aperta;15726,58;101041,3;True
+Qualita' (predefinita);2014-02-01;superata;31;1,458;superata;1,0;aperta;13556,83;111557,33;True
+Qualita' (predefinita);2014-03-01;superata;14;1,409;superata;11,0;aperta;13695,62;99244,37;True
+Qualita' (predefinita);2014-04-01;superata;8;1,575;superata;53,0;aperta;13235,66;103772,36;True
+Qualita' (predefinita);2014-05-01;superata;42;1,306;superata;50,0;aperta;7895,88;99685,38;True
+Qualita' (predefinita);2014-06-01;superata;23;1,136;superata;50,0;aperta;7895,88;99685,38;True
+Qualita' (predefinita);2014-07-01;superata;1;0,263;superata;1,0;aperta;14201,81;107160,47;True
+Qualita' (predefinita);2014-08-01;superata;36;1,567;superata;23,0;aperta;6909,36;98836,56;True
+Qualita' (predefinita);2014-09-01;superata;14;1,24;superata;1,0;aperta;6039,74;101526,81;True
+Qualita' (predefinita);2014-10-01;superata;21;1,673;superata;43,0;aperta;10352,96;101813,16;True
+Qualita' (predefinita);2014-11-01;superata;46;1,194;superata;98,0;aperta;22512,21;98129,09;True
+Qualita' (predefinita);2014-12-01;superata;25;1,458;superata;2,0;aperta;5516,27;104112,21;True
+Qualita' (predefinita);2015-01-01;superata;5;1,086;superata;2,0;aperta;5516,27;104112,21;True
+Qualita' (predefinita);2015-02-01;superata;39;1,337;superata;48,0;aperta;22512,21;98129,09;True
+Qualita' (predefinita);2015-03-01;superata;24;1,179;superata;49,0;aperta;22512,21;98129,09;True
+Qualita' (predefinita);2015-04-01;superata;13;0,982;superata;39,0;aperta;22512,21;98129,09;True
+Qualita' (predefinita);2015-05-01;superata;34;1,375;superata;13,0;aperta;21395,89;96191,29;True
+Qualita' (predefinita);2015-06-01;superata;14;1,164;superata;13,0;aperta;21395,89;96191,29;True
+Qualita' (predefinita);2015-07-01;superata;24;2,055;superata;3,0;aperta;17281,62;95430,57;True
+Qualita' (predefinita);2015-08-01;superata;4;1,091;superata;3,0;aperta;17281,62;95430,57;True
+Qualita' (predefinita);2015-09-01;superata;35;1,801;superata;136,0;aperta;8259,75;121587,2;True
+Qualita' (predefinita);2015-10-01;superata;16;1,801;superata;136,0;aperta;8259,75;121587,2;True
+Qualita' (predefinita);2015-11-01;superata;97;1,87;superata;36,0;aperta;8259,75;121587,2;True
+Qualita' (predefinita);2015-12-01;superata;82;1,75;superata;31,0;aperta;8259,75;121587,2;True
+Qualita' (predefinita);2016-01-01;superata;130;1,5;superata;5,0;aperta;28796,96;96639,48;True
+Qualita' (predefinita);2016-02-01;superata;21;1,25;superata;52,0;aperta;8259,75;121587,2;True
+Qualita' (predefinita);2016-03-01;superata;19;1,234;superata;36,0;aperta;8259,75;121587,2;True
+Qualita' (predefinita);2016-04-01;superata;37;1,25;superata;43,0;aperta;28796,96;96639,48;True
+Qualita' (predefinita);2016-05-01;superata;14;1,128;superata;2,0;aperta;8468,61;121277,92;True
+Qualita' (predefinita);2016-06-01;superata;40;1,191;superata;3,0;aperta;28323,77;95663,66;True
+Qualita' (predefinita);2016-07-01;superata;12;1,125;superata;7,0;aperta;28796,96;96639,48;True
+Qualita' (predefinita);2016-08-01;superata;2;1,198;superata;23,0;aperta;18195,04;93090,78;True
+Qualita' (predefinita);2016-09-01;superata;7;2,453;superata;33,0;persa;14633,06;91004,47;True
+Qualita' (predefinita);2016-10-01;superata;7;1,387;superata;12,0;persa;14633,06;91004,47;True
+Qualita' (predefinita);2016-11-01;superata;1;0,24;superata;1,0;persa;7677,88;91004,47;True
+Qualita' (predefinita);2016-12-01;superata;9;1,17;superata;7,0;persa;0,0;91004,47;True
+Qualita' (predefinita);2017-01-01;persa;56;1,35;;;;0,0;;False
+Qualita' (predefinita);2017-02-01;persa;46;1,07;;;;0,0;;False
+Qualita' (predefinita);2017-03-01;superata;117;1,375;superata;60,0;aperta;0,0;99507,24;True
+Qualita' (predefinita);2017-04-01;superata;92;1,131;superata;3,0;aperta;2086,28;94194,91;True
+Qualita' (predefinita);2017-05-01;superata;16;1,337;superata;59,0;aperta;6855,72;95260,32;True
+Qualita' (predefinita);2017-06-01;superata;57;1,499;superata;4,0;aperta;2086,28;94194,91;True
+Qualita' (predefinita);2017-07-01;superata;35;1,412;superata;4,0;aperta;2086,28;94194,91;True
+Qualita' (predefinita);2017-08-01;superata;15;1,011;superata;4,0;aperta;2086,28;94194,91;True
+Qualita' (predefinita);2017-09-01;superata;161;1,692;superata;123,0;aperta;19107,56;98072,25;True
+Qualita' (predefinita);2017-10-01;superata;13;1,096;superata;19,0;aperta;2202,52;101912,55;True
+Qualita' (predefinita);2017-11-01;superata;129;1,692;superata;118,0;aperta;19107,56;98072,25;True
+Qualita' (predefinita);2017-12-01;superata;202;1,692;superata;17,0;aperta;20738,2;94733,76;True
+Qualita' (predefinita);2018-01-01;superata;87;1,625;superata;118,0;aperta;19107,56;98072,25;True
+Qualita' (predefinita);2018-02-01;superata;67;1,653;superata;118,0;aperta;19107,56;98072,25;True
+Qualita' (predefinita);2018-03-01;superata;43;1,508;superata;126,0;aperta;19107,56;98072,25;True
+Qualita' (predefinita);2018-04-01;superata;10;1,25;superata;4,0;aperta;608,49;102087,67;True
+Qualita' (predefinita);2018-05-01;superata;106;1,625;superata;17,0;aperta;20738,2;94733,76;True
+Qualita' (predefinita);2018-06-01;superata;41;1,5;superata;66,0;aperta;19107,56;98072,25;True
+Qualita' (predefinita);2018-07-01;superata;20;1,075;superata;66,0;aperta;19107,56;98072,25;True
+Qualita' (predefinita);2018-08-01;superata;64;1,374;superata;3,0;aperta;19107,56;98072,25;True
+Qualita' (predefinita);2018-09-01;superata;26;1,375;superata;16,0;aperta;20738,2;94733,76;True
+Qualita' (predefinita);2018-10-01;superata;24;1,25;superata;6,0;aperta;19107,56;98072,25;True
+Qualita' (predefinita);2018-11-01;superata;8;0,78;superata;3,0;aperta;15793,85;97851,66;True
+Qualita' (predefinita);2018-12-01;superata;17;1,0;superata;4,0;aperta;17437,87;102824,85;True
+Qualita' (predefinita);2019-01-01;superata;7;1,125;superata;9,0;aperta;13978,61;108665,99;True
+Qualita' (predefinita);2019-02-01;superata;30;1,395;superata;50,0;aperta;31937,34;101389,91;True
+Qualita' (predefinita);2019-03-01;superata;10;1,0;superata;4,0;aperta;14493,78;114824,85;True
+Qualita' (predefinita);2019-04-01;superata;45;1,073;superata;16,0;aperta;27969,34;100233,22;True
+Qualita' (predefinita);2019-05-01;superata;25;0,948;superata;1,0;aperta;32527,58;102728,98;True
+Qualita' (predefinita);2019-06-01;superata;5;0,948;superata;1,0;aperta;32527,58;102728,98;True
+Qualita' (predefinita);2019-07-01;superata;23;1,481;superata;23,0;aperta;28030,44;99989,12;True
+Qualita' (predefinita);2019-08-01;superata;1;0,902;superata;20,0;aperta;28030,44;99989,12;True
+Qualita' (predefinita);2019-09-01;superata;4;1,287;superata;12,0;aperta;22708,91;97899,34;True
+Qualita' (predefinita);2019-10-01;superata;9;1,432;superata;29,0;aperta;9873,58;96509,94;True
+Qualita' (predefinita);2019-11-01;superata;37;1,657;superata;20,0;aperta;8220,54;95317,44;True
+Qualita' (predefinita);2019-12-01;superata;1;1,338;superata;44,0;aperta;5146,78;98458,0;True
+Qualita' (predefinita);2020-01-01;superata;29;1,657;superata;2,0;aperta;2914,9;100000,0;True
+Qualita' (predefinita);2020-02-01;superata;10;0,75;superata;2,0;aperta;2914,9;100000,0;True
+Qualita' (predefinita);2020-03-01;superata;136;1,739;persa;82,0;;0,0;;False
+Qualita' (predefinita);2020-04-01;superata;51;1,435;superata;66,0;persa;0,0;91019,93;True
+Qualita' (predefinita);2020-05-01;superata;35;1,435;superata;66,0;persa;0,0;91019,93;True
+Qualita' (predefinita);2020-06-01;superata;18;1,249;superata;2,0;aperta;4123,16;96609,62;True
+Qualita' (predefinita);2020-07-01;persa;148;1,407;;;;0,0;;False
+Qualita' (predefinita);2020-08-01;superata;7;1,04;superata;14,0;persa;0,0;91061,21;True
+Qualita' (predefinita);2020-09-01;persa;105;0,966;;;;0,0;;False
+Qualita' (predefinita);2020-10-01;persa;88;1,347;;;;0,0;;False
+Qualita' (predefinita);2020-11-01;persa;91;1,347;;;;0,0;;False
+Qualita' (predefinita);2020-12-01;superata;118;1,172;superata;1,0;aperta;12451,61;98091,06;True
+Qualita' (predefinita);2021-01-01;superata;4;1,135;superata;87,0;aperta;17108,92;97924,44;True
+Qualita' (predefinita);2021-02-01;superata;73;1,1;superata;9,0;aperta;10660,45;99477,13;True
+Qualita' (predefinita);2021-03-01;superata;24;1,424;superata;29,0;aperta;21830,01;99263,72;True
+Qualita' (predefinita);2021-04-01;superata;26;1,25;superata;6,0;aperta;21830,01;99263,72;True
+Qualita' (predefinita);2021-05-01;superata;14;0,964;superata;1,0;aperta;17108,92;97615,66;True
+Qualita' (predefinita);2021-06-01;superata;50;1,463;superata;3,0;aperta;7043,45;96237,32;True
+Qualita' (predefinita);2021-07-01;superata;40;1,374;superata;21,0;aperta;949,71;96477,53;True
+Qualita' (predefinita);2021-08-01;superata;21;1,374;superata;21,0;aperta;949,71;96477,53;True
+Qualita' (predefinita);2021-09-01;superata;22;1,479;superata;11,0;aperta;0,0;94755,44;True
+Qualita' (predefinita);2021-10-01;superata;2;0,682;superata;10,0;aperta;0,0;94755,44;True
+Qualita' (predefinita);2021-11-01;superata;123;1,375;superata;11,0;aperta;2644,52;94503,62;True
+Qualita' (predefinita);2021-12-01;superata;102;1,543;superata;11,0;aperta;2644,52;94503,62;True
+Qualita' (predefinita);2022-01-01;superata;81;1,677;superata;11,0;aperta;2644,52;94503,62;True
+Qualita' (predefinita);2022-02-01;superata;62;1,124;superata;11,0;aperta;2644,52;94503,62;True
+Qualita' (predefinita);2022-03-01;superata;44;1,19;superata;11,0;aperta;2644,52;94503,62;True
+Qualita' (predefinita);2022-04-01;superata;4;1,692;superata;10,0;aperta;16764,7;95774,13;True
+Qualita' (predefinita);2022-05-01;superata;4;0,973;superata;11,0;aperta;2644,52;94503,62;True
+Qualita' (predefinita);2022-06-01;superata;145;1,749;superata;143,0;persa;1887,78;91000,02;True
+Qualita' (predefinita);2022-07-01;superata;125;1,624;superata;143,0;persa;1887,78;91000,02;True
+Qualita' (predefinita);2022-08-01;superata;115;1,376;superata;136,0;persa;1887,78;91000,02;True
+Qualita' (predefinita);2022-09-01;superata;76;1,365;superata;8,0;aperta;612,81;96376,5;True
+Qualita' (predefinita);2022-10-01;superata;50;1,492;superata;4,0;aperta;2931,26;96180,66;True
+Qualita' (predefinita);2022-11-01;superata;36;1,499;superata;8,0;aperta;612,81;96376,5;True
+Qualita' (predefinita);2022-12-01;superata;11;1,443;superata;4,0;aperta;2931,26;96180,66;True
+Qualita' (predefinita);2023-01-01;superata;150;1,621;superata;12,0;persa;0,0;91002,75;True
+Qualita' (predefinita);2023-02-01;superata;132;1,515;superata;12,0;persa;0,0;91002,75;True
+Qualita' (predefinita);2023-03-01;superata;50;2,219;superata;63,0;persa;1887,78;91000,02;True
+Qualita' (predefinita);2023-04-01;superata;29;1,786;superata;63,0;persa;1887,78;91000,02;True
+Qualita' (predefinita);2023-05-01;superata;76;1,322;superata;12,0;persa;0,0;91002,75;True
+Qualita' (predefinita);2023-06-01;superata;56;1,503;superata;12,0;persa;0,0;91002,75;True
+Qualita' (predefinita);2023-07-01;superata;35;1,125;superata;12,0;persa;0,0;91002,75;True
+Qualita' (predefinita);2023-08-01;superata;7;0,68;superata;9,0;persa;1887,78;91000,02;True
+Qualita' (predefinita);2023-09-01;persa;59;1,229;;;;0,0;;False
+Qualita' (predefinita);2023-10-01;persa;52;1,853;;;;0,0;;False
+Qualita' (predefinita);2023-11-01;aperta;234;1,44;;;;0,0;;False
+Qualita' (predefinita);2023-12-01;superata;20;0,849;superata;2,0;aperta;0,0;97030,85;True
+Qualita' (predefinita);2024-01-01;superata;1;0,093;superata;1,0;aperta;560,64;96044,73;True
+Qualita' (predefinita);2024-02-01;superata;41;1,387;superata;6,0;aperta;0,0;95943,66;True
+Qualita' (predefinita);2024-03-01;superata;22;1,387;superata;6,0;aperta;0,0;95943,66;True
+Qualita' (predefinita);2024-04-01;superata;11;1,798;superata;153,0;aperta;21025,18;98153,43;True
+Qualita' (predefinita);2024-05-01;superata;144;1,798;superata;7,0;aperta;15168,94;97288,83;True
+Qualita' (predefinita);2024-06-01;superata;114;1,627;superata;11,0;aperta;21025,18;98153,43;True
+Qualita' (predefinita);2024-07-01;superata;80;1,602;superata;11,0;aperta;18543,46;104182,9;True
+Qualita' (predefinita);2024-08-01;superata;78;1,183;superata;11,0;aperta;21025,18;98153,43;True
+Qualita' (predefinita);2024-09-01;superata;39;1,4;superata;11,0;aperta;18543,46;104182,9;True
+Qualita' (predefinita);2024-10-01;superata;19;0,956;superata;11,0;aperta;18543,46;104182,9;True
+Qualita' (predefinita);2024-11-01;superata;26;1,798;superata;7,0;aperta;15168,94;97288,83;True
+Qualita' (predefinita);2024-12-01;superata;13;1,124;superata;2,0;aperta;12638,79;97129,22;True
+Qualita' (predefinita);2025-01-01;superata;83;1,257;superata;9,0;aperta;4825,74;93473,12;True
+Qualita' (predefinita);2025-02-01;superata;13;1,131;superata;50,0;aperta;8742,01;93001,47;True
+Qualita' (predefinita);2025-03-01;superata;52;1,243;superata;6,0;aperta;4825,74;93473,12;True
+Qualita' (predefinita);2025-04-01;superata;17;0,999;superata;10,0;aperta;8742,01;93001,47;True
+Qualita' (predefinita);2025-05-01;superata;18;1,249;superata;30,0;aperta;2041,74;91793,89;True
+Qualita' (predefinita);2025-06-01;superata;51;1,486;superata;114,0;aperta;0,0;95030,81;True
+Qualita' (predefinita);2025-07-01;superata;11;1,355;superata;19,0;aperta;197,98;97663,9;True
+Qualita' (predefinita);2025-08-01;superata;13;1,486;superata;114,0;aperta;0,0;95030,81;True
+Qualita' (predefinita);2025-09-01;aperta;227;1,623;;;;0,0;;False
+Qualita' (predefinita);2025-10-01;superata;94;1,191;superata;130,0;aperta;0,0;103061,84;True
+Qualita' (predefinita);2025-11-01;superata;55;1,238;superata;14,0;aperta;0,0;95030,81;True
+Qualita' (predefinita);2025-12-01;superata;40;1,072;superata;14,0;aperta;0,0;95030,81;True
+Qualita' (predefinita);2026-01-01;superata;20;1,103;superata;2,0;aperta;6303,05;95960,51;True
+Qualita' (predefinita);2026-02-01;superata;2;1,072;superata;13,0;aperta;0,0;95030,81;True
+Qualita' (predefinita);2026-03-01;superata;145;1,499;;;;0,0;;False
+Bilanciata;2011-02-01;superata;23;1,211;persa;55,0;;0,0;;False
+Bilanciata;2011-03-01;superata;4;1,185;persa;51,0;;0,0;;False
+Bilanciata;2011-04-01;superata;62;1,362;superata;16,0;aperta;2952,41;92933,66;True
+Bilanciata;2011-05-01;superata;43;0,959;superata;17,0;aperta;8991,3;93235,52;True
+Bilanciata;2011-06-01;superata;20;0,964;superata;1,0;aperta;9701,75;94974,26;True
+Bilanciata;2011-07-01;superata;4;0,869;superata;16,0;aperta;2952,41;92933,66;True
+Bilanciata;2011-08-01;superata;2;1,491;persa;124,0;;0,0;;False
+Bilanciata;2011-09-01;persa;109;1,0;;;;0,0;;False
+Bilanciata;2011-10-01;superata;36;1,44;superata;20,0;persa;0,0;91023,72;True
+Bilanciata;2011-11-01;superata;22;1,511;superata;13,0;persa;0,0;91023,72;True
+Bilanciata;2011-12-01;persa;69;1,236;;;;0,0;;False
+Bilanciata;2012-01-01;persa;51;0,834;;;;0,0;;False
+Bilanciata;2012-02-01;persa;154;1,077;;;;0,0;;False
+Bilanciata;2012-03-01;persa;242;1,285;;;;0,0;;False
+Bilanciata;2012-04-01;superata;12;1,285;persa;222,0;;0,0;;False
+Bilanciata;2012-05-01;persa;192;1,285;;;;0,0;;False
+Bilanciata;2012-06-01;superata;34;1,412;persa;143,0;;0,0;;False
+Bilanciata;2012-07-01;superata;13;1,412;persa;143,0;;0,0;;False
+Bilanciata;2012-08-01;persa;136;1,025;;;;0,0;;False
+Bilanciata;2012-09-01;persa;130;1,13;;;;0,0;;False
+Bilanciata;2012-10-01;superata;15;1,088;persa;94,0;;0,0;;False
+Bilanciata;2012-11-01;persa;90;0,934;;;;0,0;;False
+Bilanciata;2012-12-01;superata;139;1,342;superata;162,0;aperta;13070,1;99460,01;True
+Bilanciata;2013-01-01;superata;116;1,134;superata;162,0;aperta;13070,1;99460,01;True
+Bilanciata;2013-02-01;superata;71;1,262;superata;26,0;aperta;0,0;94529,77;True
+Bilanciata;2013-03-01;superata;52;1,46;superata;26,0;aperta;0,0;94529,77;True
+Bilanciata;2013-04-01;superata;8;1,082;superata;50,0;aperta;0,0;94529,77;True
+Bilanciata;2013-05-01;superata;34;1,082;superata;2,0;aperta;0,0;94086,03;True
+Bilanciata;2013-06-01;superata;91;1,242;superata;80,0;aperta;15097,9;98840,96;True
+Bilanciata;2013-07-01;superata;182;1,5;superata;66,0;aperta;10034,93;95236,44;True
+Bilanciata;2013-08-01;superata;159;1,5;superata;66,0;aperta;10034,93;95236,44;True
+Bilanciata;2013-09-01;superata;114;1,428;superata;26,0;aperta;6918,2;106912,2;True
+Bilanciata;2013-10-01;superata;7;1,095;superata;80,0;aperta;13070,1;99460,01;True
+Bilanciata;2013-11-01;superata;93;1,5;superata;66,0;aperta;10034,93;95236,44;True
+Bilanciata;2013-12-01;superata;50;1,428;superata;26,0;aperta;6918,2;106912,2;True
+Bilanciata;2014-01-01;superata;31;1,428;superata;26,0;aperta;6918,2;106912,2;True
+Bilanciata;2014-02-01;superata;42;1,481;superata;64,0;aperta;739,29;100879,1;True
+Bilanciata;2014-03-01;superata;22;1,481;superata;64,0;aperta;739,29;100879,1;True
+Bilanciata;2014-04-01;superata;29;1,5;superata;36,0;aperta;739,29;100879,1;True
+Bilanciata;2014-05-01;superata;47;1,427;superata;126,0;aperta;19365,36;101563,9;True
+Bilanciata;2014-06-01;superata;24;1,427;superata;126,0;aperta;19365,36;101563,9;True
+Bilanciata;2014-07-01;superata;1;0,263;superata;1,0;aperta;3276,67;103495,0;True
+Bilanciata;2014-08-01;superata;38;1,427;superata;71,0;aperta;19365,36;101563,9;True
+Bilanciata;2014-09-01;superata;18;1,427;superata;71,0;aperta;19365,36;101563,9;True
+Bilanciata;2014-10-01;superata;71;1,427;superata;7,0;aperta;19587,42;97736,68;True
+Bilanciata;2014-11-01;superata;47;1,253;superata;2,0;aperta;20619,46;101290,63;True
+Bilanciata;2014-12-01;superata;27;1,114;superata;2,0;aperta;20619,46;101290,63;True
+Bilanciata;2015-01-01;superata;5;0,72;superata;2,0;aperta;20619,46;101290,63;True
+Bilanciata;2015-02-01;superata;40;1,386;superata;1,0;aperta;15471,32;96302,28;True
+Bilanciata;2015-03-01;superata;7;1,386;superata;9,0;aperta;18369,23;101160,67;True
+Bilanciata;2015-04-01;superata;4;0,907;superata;8,0;aperta;13027,79;95603,5;True
+Bilanciata;2015-05-01;superata;28;1,618;superata;4,0;aperta;3737,13;95499,1;True
+Bilanciata;2015-06-01;superata;14;1,346;superata;1,0;aperta;1690,84;94817,96;True
+Bilanciata;2015-07-01;superata;54;1,222;superata;78,0;aperta;0,0;97055,95;True
+Bilanciata;2015-08-01;superata;16;1,5;superata;120,0;aperta;55,22;108753,72;True
+Bilanciata;2015-09-01;superata;118;1,329;superata;109,0;aperta;12050,3;95424,73;True
+Bilanciata;2015-10-01;superata;96;1,483;superata;109,0;aperta;12050,3;95424,73;True
+Bilanciata;2015-11-01;superata;41;1,375;superata;8,0;aperta;0,0;97055,95;True
+Bilanciata;2015-12-01;superata;22;1,375;superata;8,0;aperta;0,0;97055,95;True
+Bilanciata;2016-01-01;superata;148;1,375;superata;14,0;aperta;6478,72;95290,93;True
+Bilanciata;2016-02-01;superata;128;1,375;superata;14,0;aperta;6478,72;95290,93;True
+Bilanciata;2016-03-01;superata;106;1,313;superata;14,0;aperta;6478,72;95290,93;True
+Bilanciata;2016-04-01;superata;5;1,181;superata;80,0;aperta;12050,3;95424,73;True
+Bilanciata;2016-05-01;superata;15;1,062;superata;51,0;aperta;12050,3;95424,73;True
+Bilanciata;2016-06-01;superata;45;1,156;superata;14,0;aperta;6478,72;95290,93;True
+Bilanciata;2016-07-01;superata;12;1,014;superata;9,0;aperta;12050,3;95424,73;True
+Bilanciata;2016-08-01;superata;2;1,111;superata;26,0;aperta;0,0;92576,9;True
+Bilanciata;2016-09-01;superata;8;2,453;persa;126,0;;0,0;;False
+Bilanciata;2016-10-01;superata;7;0,791;superata;13,0;persa;3868,69;91032,45;True
+Bilanciata;2016-11-01;superata;1;0,429;superata;1,0;persa;201,93;91032,45;True
+Bilanciata;2016-12-01;persa;75;1,247;;;;0,0;;False
+Bilanciata;2017-01-01;persa;54;1,26;;;;0,0;;False
+Bilanciata;2017-02-01;persa;48;0,857;;;;0,0;;False
+Bilanciata;2017-03-01;superata;81;1,499;superata;2,0;aperta;19280,66;99654,35;True
+Bilanciata;2017-04-01;superata;32;1,569;superata;2,0;aperta;17400,3;102025,68;True
+Bilanciata;2017-05-01;superata;14;1,465;superata;2,0;aperta;17400,3;102025,68;True
+Bilanciata;2017-06-01;superata;24;1,499;superata;38,0;aperta;5622,58;93519,41;True
+Bilanciata;2017-07-01;superata;2;1,053;superata;31,0;aperta;13107,33;93970,54;True
+Bilanciata;2017-08-01;superata;16;1,45;superata;4,0;aperta;5622,58;93519,41;True
+Bilanciata;2017-09-01;superata;60;2,118;superata;21,0;aperta;0,0;96729,69;True
+Bilanciata;2017-10-01;superata;15;1,843;superata;22,0;aperta;3550,49;101550,39;True
+Bilanciata;2017-11-01;superata;21;2,118;superata;21,0;aperta;0,0;96729,69;True
+Bilanciata;2017-12-01;superata;151;1,709;superata;31,0;aperta;44264,38;96524,73;True
+Bilanciata;2018-01-01;superata;2;1,032;superata;84,0;aperta;20353,22;108454,81;True
+Bilanciata;2018-02-01;superata;68;1,593;superata;59,0;aperta;44987,24;99917,16;True
+Bilanciata;2018-03-01;superata;38;1,394;superata;13,0;aperta;20353,22;108454,81;True
+Bilanciata;2018-04-01;superata;6;0,96;superata;9,0;aperta;20025,02;109739,78;True
+Bilanciata;2018-05-01;superata;11;1,277;superata;59,0;aperta;44987,24;99917,16;True
+Bilanciata;2018-06-01;superata;31;1,25;superata;31,0;aperta;44264,38;96524,73;True
+Bilanciata;2018-07-01;superata;10;1,25;superata;31,0;aperta;44264,38;96524,73;True
+Bilanciata;2018-08-01;superata;2;1,25;superata;20,0;aperta;38369,74;95708,26;True
+Bilanciata;2018-09-01;superata;19;1,21;superata;4,0;aperta;38383,68;96833,53;True
+Bilanciata;2018-10-01;superata;4;1,21;superata;3,0;aperta;34933,42;96233,52;True
+Bilanciata;2018-11-01;superata;8;1,461;superata;3,0;aperta;17416,94;100116,25;True
+Bilanciata;2018-12-01;superata;2;1,326;superata;19,0;aperta;18109,45;102065,19;True
+Bilanciata;2019-01-01;superata;3;1,433;superata;18,0;aperta;14461,06;108637,19;True
+Bilanciata;2019-02-01;superata;84;1,349;superata;1,0;aperta;27898,63;102386,04;True
+Bilanciata;2019-03-01;superata;15;1,054;superata;51,0;aperta;30920,56;101683,94;True
+Bilanciata;2019-04-01;superata;46;0,981;superata;1,0;aperta;27898,63;102386,04;True
+Bilanciata;2019-05-01;superata;14;0,847;superata;11,0;aperta;30920,56;101683,94;True
+Bilanciata;2019-06-01;superata;5;0,948;superata;1,0;aperta;27898,63;102386,04;True
+Bilanciata;2019-07-01;superata;26;3,233;superata;21,0;aperta;22811,5;98662,91;True
+Bilanciata;2019-08-01;superata;3;3,233;superata;21,0;aperta;22811,5;98662,91;True
+Bilanciata;2019-09-01;superata;4;0,908;superata;10,0;aperta;18637,28;97415,48;True
+Bilanciata;2019-10-01;superata;11;1,303;superata;36,0;aperta;11351,56;100937,37;True
+Bilanciata;2019-11-01;superata;40;1,457;superata;22,0;aperta;7703,3;96699,24;True
+Bilanciata;2019-12-01;superata;1;1,458;superata;38,0;aperta;7703,3;96699,24;True
+Bilanciata;2020-01-01;superata;35;1,457;superata;2,0;aperta;3171,73;99506,47;True
+Bilanciata;2020-02-01;superata;16;1,099;persa;198,0;;0,0;;False
+Bilanciata;2020-03-01;superata;83;1,298;superata;66,0;persa;434,5;91000,23;True
+Bilanciata;2020-04-01;superata;9;1,045;superata;9,0;aperta;11449,14;99513,52;True
+Bilanciata;2020-05-01;superata;40;1,316;superata;2,0;aperta;5840,06;91699,75;True
+Bilanciata;2020-06-01;superata;24;1,202;superata;66,0;persa;434,5;91000,23;True
+Bilanciata;2020-07-01;superata;73;1,202;persa;63,0;;0,0;;False
+Bilanciata;2020-08-01;superata;24;1,124;persa;90,0;;0,0;;False
+Bilanciata;2020-09-01;superata;29;1,202;persa;63,0;;0,0;;False
+Bilanciata;2020-10-01;superata;8;1,202;persa;63,0;;0,0;;False
+Bilanciata;2020-11-01;persa;46;1,121;;;;0,0;;False
+Bilanciata;2020-12-01;persa;34;0,875;;;;0,0;;False
+Bilanciata;2021-01-01;superata;1;1,049;persa;26,0;;0,0;;False
+Bilanciata;2021-02-01;superata;94;1,652;superata;1,0;aperta;5831,38;95017,4;True
+Bilanciata;2021-03-01;superata;32;1,499;superata;25,0;aperta;9647,38;95257,24;True
+Bilanciata;2021-04-01;superata;9;0,945;superata;25,0;aperta;9647,38;95257,24;True
+Bilanciata;2021-05-01;superata;14;0,839;superata;1,0;aperta;6048,81;94203,35;True
+Bilanciata;2021-06-01;superata;86;1,681;superata;135,0;aperta;14918,1;96235,56;True
+Bilanciata;2021-07-01;superata;65;1,681;superata;135,0;aperta;14918,1;96235,56;True
+Bilanciata;2021-08-01;superata;21;1,335;superata;22,0;aperta;0,0;96956,47;True
+Bilanciata;2021-09-01;superata;23;1,681;superata;135,0;aperta;14918,1;96235,56;True
+Bilanciata;2021-10-01;superata;2;1,681;superata;134,0;aperta;14918,1;96235,56;True
+Bilanciata;2021-11-01;superata;120;1,749;superata;5,0;aperta;54,58;95047,02;True
+Bilanciata;2021-12-01;superata;24;1,375;superata;2,0;aperta;25759,64;97086,33;True
+Bilanciata;2022-01-01;superata;6;1,374;superata;38,0;aperta;16668,23;95579,07;True
+Bilanciata;2022-02-01;superata;59;1,749;superata;5,0;aperta;54,58;95047,02;True
+Bilanciata;2022-03-01;superata;39;1,749;superata;5,0;aperta;54,58;95047,02;True
+Bilanciata;2022-04-01;superata;17;1,749;superata;5,0;aperta;54,58;95047,02;True
+Bilanciata;2022-05-01;superata;4;1,499;superata;157,0;aperta;8308,37;97499,57;True
+Bilanciata;2022-06-01;superata;160;1,468;superata;56,0;aperta;5927,39;99017,97;True
+Bilanciata;2022-07-01;superata;18;1,785;superata;100,0;aperta;8308,37;97499,57;True
+Bilanciata;2022-08-01;superata;110;1,785;superata;8,0;aperta;1722,25;96631,8;True
+Bilanciata;2022-09-01;superata;87;1,369;superata;8,0;aperta;1722,25;96631,8;True
+Bilanciata;2022-10-01;superata;2;1,316;superata;26,0;aperta;16746,47;99255,54;True
+Bilanciata;2022-11-01;superata;33;1,193;superata;4,0;aperta;8308,37;97499,57;True
+Bilanciata;2022-12-01;superata;11;1,193;superata;4,0;aperta;8308,37;97499,57;True
+Bilanciata;2023-01-01;superata;18;1,513;superata;139,0;persa;0,0;91025,32;True
+Bilanciata;2023-02-01;superata;140;1,625;persa;76,0;;0,0;;False
+Bilanciata;2023-03-01;superata;27;1,36;superata;4,0;aperta;5927,39;99017,97;True
+Bilanciata;2023-04-01;superata;10;1,553;superata;86,0;persa;0,0;91025,32;True
+Bilanciata;2023-05-01;superata;81;1,616;persa;76,0;;0,0;;False
+Bilanciata;2023-06-01;superata;58;2,413;persa;76,0;;0,0;;False
+Bilanciata;2023-07-01;superata;38;1,19;persa;76,0;;0,0;;False
+Bilanciata;2023-08-01;superata;15;0,874;superata;1,0;aperta;0,0;95853,15;True
+Bilanciata;2023-09-01;aperta;245;1,68;;;;0,0;;False
+Bilanciata;2023-10-01;aperta;244;1,68;;;;0,0;;False
+Bilanciata;2023-11-01;superata;46;1,748;superata;205,0;aperta;19044,44;109859,59;True
+Bilanciata;2023-12-01;superata;21;1,139;superata;2,0;aperta;0,0;98577,4;True
+Bilanciata;2024-01-01;superata;1;0,209;superata;1,0;aperta;0,0;96545,39;True
+Bilanciata;2024-02-01;superata;198;1,276;superata;13,0;aperta;24392,79;97789,95;True
+Bilanciata;2024-03-01;superata;184;1,225;superata;5,0;aperta;24392,79;97789,95;True
+Bilanciata;2024-04-01;superata;17;1,101;superata;136,0;aperta;19044,44;109859,59;True
+Bilanciata;2024-05-01;superata;140;1,196;superata;13,0;aperta;24392,79;97789,95;True
+Bilanciata;2024-06-01;superata;52;1,301;superata;81,0;aperta;24392,79;97789,95;True
+Bilanciata;2024-07-01;superata;8;1,19;superata;106,0;aperta;24392,79;97789,95;True
+Bilanciata;2024-08-01;superata;80;1,602;superata;13,0;aperta;24392,79;97789,95;True
+Bilanciata;2024-09-01;superata;58;1,196;superata;13,0;aperta;24392,79;97789,95;True
+Bilanciata;2024-10-01;superata;17;1,188;superata;9,0;aperta;16851,14;106707,23;True
+Bilanciata;2024-11-01;superata;14;1,196;superata;13,0;aperta;24392,79;97789,95;True
+Bilanciata;2024-12-01;superata;8;1,214;superata;8,0;aperta;20354,68;95894,19;True
+Bilanciata;2025-01-01;superata;78;1,267;superata;16,0;persa;2804,02;91040,63;True
+Bilanciata;2025-02-01;superata;49;1,396;superata;6,0;aperta;8602,76;93789,6;True
+Bilanciata;2025-03-01;superata;36;1,19;superata;17,0;persa;2804,02;91040,63;True
+Bilanciata;2025-04-01;superata;15;1,19;superata;17,0;persa;2804,02;91040,63;True
+Bilanciata;2025-05-01;superata;15;0,949;superata;4,0;persa;0,0;91040,63;True
+Bilanciata;2025-06-01;persa;109;1,289;;;;0,0;;False
+Bilanciata;2025-07-01;superata;151;1,647;superata;9,0;aperta;0,0;96408,94;True
+Bilanciata;2025-08-01;superata;129;1,535;superata;9,0;aperta;0,0;96408,94;True
+Bilanciata;2025-09-01;superata;108;1,386;superata;9,0;aperta;0,0;96408,94;True
+Bilanciata;2025-10-01;superata;87;1,906;superata;9,0;aperta;0,0;96408,94;True
+Bilanciata;2025-11-01;superata;65;1,285;superata;5,0;aperta;3585,42;97448,4;True
+Bilanciata;2025-12-01;superata;47;1,161;superata;5,0;aperta;3585,42;97448,4;True
+Bilanciata;2026-01-01;superata;23;1,234;superata;14,0;aperta;0,0;96408,94;True
+Bilanciata;2026-02-01;superata;2;0,78;superata;5,0;aperta;3585,42;97448,4;True
+Bilanciata;2026-03-01;superata;140;1,253;aperta;15,0;;0,0;;False
+Qualita' fasi + Bilanciata finanziato;2011-02-01;superata;22;1,375;superata;85,0;aperta;10504,99;93957,86;True
+Qualita' fasi + Bilanciata finanziato;2011-03-01;superata;5;1,147;superata;88,0;aperta;8991,3;93235,52;True
+Qualita' fasi + Bilanciata finanziato;2011-04-01;superata;76;1,234;superata;4,0;aperta;0,0;92177,83;True
+Qualita' fasi + Bilanciata finanziato;2011-05-01;superata;41;1,141;superata;17,0;aperta;8991,3;93235,52;True
+Qualita' fasi + Bilanciata finanziato;2011-06-01;superata;20;1,141;superata;17,0;aperta;8991,3;93235,52;True
+Qualita' fasi + Bilanciata finanziato;2011-07-01;superata;18;1,141;superata;4,0;aperta;0,0;92177,83;True
+Qualita' fasi + Bilanciata finanziato;2011-08-01;persa;132;1,625;;;;0,0;;False
+Qualita' fasi + Bilanciata finanziato;2011-09-01;persa;110;1,0;;;;0,0;;False
+Qualita' fasi + Bilanciata finanziato;2011-10-01;aperta;236;1,592;;;;0,0;;False
+Qualita' fasi + Bilanciata finanziato;2011-11-01;aperta;236;1,635;;;;0,0;;False
+Qualita' fasi + Bilanciata finanziato;2011-12-01;aperta;236;1,174;;;;0,0;;False
+Qualita' fasi + Bilanciata finanziato;2012-01-01;aperta;237;1,335;;;;0,0;;False
+Qualita' fasi + Bilanciata finanziato;2012-02-01;superata;109;1,405;persa;157,0;;0,0;;False
+Qualita' fasi + Bilanciata finanziato;2012-03-01;superata;9;1,337;superata;22,0;aperta;0,0;96961,45;True
+Qualita' fasi + Bilanciata finanziato;2012-04-01;superata;11;1,4;superata;57,0;aperta;2161,45;92393,07;True
+Qualita' fasi + Bilanciata finanziato;2012-05-01;superata;45;1,474;persa;164,0;;0,0;;False
+Qualita' fasi + Bilanciata finanziato;2012-06-01;superata;15;1,125;superata;6,0;aperta;2271,63;94061,0;True
+Qualita' fasi + Bilanciata finanziato;2012-07-01;superata;12;1,281;persa;157,0;;0,0;;False
+Qualita' fasi + Bilanciata finanziato;2012-08-01;persa;151;1,01;;;;0,0;;False
+Qualita' fasi + Bilanciata finanziato;2012-09-01;superata;17;1,01;persa;111,0;;0,0;;False
+Qualita' fasi + Bilanciata finanziato;2012-10-01;superata;142;1,042;superata;7,0;aperta;1741,04;98827,59;True
+Qualita' fasi + Bilanciata finanziato;2012-11-01;persa;88;1,0;;;;0,0;;False
+Qualita' fasi + Bilanciata finanziato;2012-12-01;superata;99;1,277;superata;7,0;aperta;1741,04;98827,59;True
+Qualita' fasi + Bilanciata finanziato;2013-01-01;superata;79;0,986;superata;7,0;aperta;1741,04;98827,59;True
+Qualita' fasi + Bilanciata finanziato;2013-02-01;superata;48;1,053;superata;9,0;aperta;3912,98;97706,98;True
+Qualita' fasi + Bilanciata finanziato;2013-03-01;superata;33;1,133;superata;9,0;aperta;3912,98;97706,98;True
+Qualita' fasi + Bilanciata finanziato;2013-04-01;superata;7;0,849;superata;7,0;aperta;5412,14;100197,92;True
+Qualita' fasi + Bilanciata finanziato;2013-05-01;superata;10;1,16;superata;199,0;aperta;6918,2;106912,2;True
+Qualita' fasi + Bilanciata finanziato;2013-06-01;superata;201;1,575;superata;53,0;aperta;739,29;100879,1;True
+Qualita' fasi + Bilanciata finanziato;2013-07-01;superata;175;1,481;superata;5,0;aperta;10943,02;95427,39;True
+Qualita' fasi + Bilanciata finanziato;2013-08-01;superata;47;1,286;superata;99,0;aperta;6918,2;106912,2;True
+Qualita' fasi + Bilanciata finanziato;2013-09-01;superata;133;1,481;superata;5,0;aperta;10943,02;95427,39;True
+Qualita' fasi + Bilanciata finanziato;2013-10-01;superata;108;1,409;superata;11,0;aperta;10943,02;95427,39;True
+Qualita' fasi + Bilanciata finanziato;2013-11-01;superata;88;1,409;superata;11,0;aperta;10943,02;95427,39;True
+Qualita' fasi + Bilanciata finanziato;2013-12-01;superata;67;1,458;superata;1,0;aperta;9781,9;106862,07;True
+Qualita' fasi + Bilanciata finanziato;2014-01-01;superata;27;1,386;superata;22,0;aperta;11585,15;98966,01;True
+Qualita' fasi + Bilanciata finanziato;2014-02-01;superata;31;1,458;superata;1,0;aperta;9781,9;106862,07;True
+Qualita' fasi + Bilanciata finanziato;2014-03-01;superata;14;1,409;superata;11,0;aperta;10943,02;95427,39;True
+Qualita' fasi + Bilanciata finanziato;2014-04-01;superata;8;1,575;superata;53,0;aperta;739,29;100879,1;True
+Qualita' fasi + Bilanciata finanziato;2014-05-01;superata;42;1,306;superata;50,0;aperta;5436,89;105318,28;True
+Qualita' fasi + Bilanciata finanziato;2014-06-01;superata;23;1,136;superata;50,0;aperta;5436,89;105318,28;True
+Qualita' fasi + Bilanciata finanziato;2014-07-01;superata;1;0,263;superata;1,0;aperta;3276,67;103495,0;True
+Qualita' fasi + Bilanciata finanziato;2014-08-01;superata;36;1,567;superata;23,0;aperta;21082,94;97998,8;True
+Qualita' fasi + Bilanciata finanziato;2014-09-01;superata;14;1,24;superata;1,0;aperta;9799,8;102007,17;True
+Qualita' fasi + Bilanciata finanziato;2014-10-01;superata;21;1,673;superata;43,0;aperta;25444,01;102938,48;True
+Qualita' fasi + Bilanciata finanziato;2014-11-01;superata;46;1,194;superata;98,0;aperta;3737,13;95499,1;True
+Qualita' fasi + Bilanciata finanziato;2014-12-01;superata;25;1,458;superata;2,0;aperta;20619,46;101290,63;True
+Qualita' fasi + Bilanciata finanziato;2015-01-01;superata;5;1,086;superata;2,0;aperta;20619,46;101290,63;True
+Qualita' fasi + Bilanciata finanziato;2015-02-01;superata;39;1,337;superata;48,0;aperta;3737,13;95499,1;True
+Qualita' fasi + Bilanciata finanziato;2015-03-01;superata;24;1,179;superata;49,0;aperta;3737,13;95499,1;True
+Qualita' fasi + Bilanciata finanziato;2015-04-01;superata;13;0,982;superata;39,0;aperta;3737,13;95499,1;True
+Qualita' fasi + Bilanciata finanziato;2015-05-01;superata;34;1,375;superata;13,0;aperta;1316,14;104830,55;True
+Qualita' fasi + Bilanciata finanziato;2015-06-01;superata;14;1,164;superata;13,0;aperta;1316,14;104830,55;True
+Qualita' fasi + Bilanciata finanziato;2015-07-01;superata;24;2,055;superata;3,0;aperta;7638,57;102487,38;True
+Qualita' fasi + Bilanciata finanziato;2015-08-01;superata;4;1,091;superata;3,0;aperta;7638,57;102487,38;True
+Qualita' fasi + Bilanciata finanziato;2015-09-01;superata;35;1,801;superata;136,0;aperta;6754,42;114535,93;True
+Qualita' fasi + Bilanciata finanziato;2015-10-01;superata;16;1,801;superata;136,0;aperta;6754,42;114535,93;True
+Qualita' fasi + Bilanciata finanziato;2015-11-01;superata;97;1,87;superata;36,0;aperta;6754,42;114535,93;True
+Qualita' fasi + Bilanciata finanziato;2015-12-01;superata;82;1,75;superata;31,0;aperta;6754,42;114535,93;True
+Qualita' fasi + Bilanciata finanziato;2016-01-01;superata;130;1,5;superata;5,0;aperta;12050,3;95424,73;True
+Qualita' fasi + Bilanciata finanziato;2016-02-01;superata;21;1,25;superata;52,0;aperta;6754,42;114535,93;True
+Qualita' fasi + Bilanciata finanziato;2016-03-01;superata;19;1,234;superata;36,0;aperta;6754,42;114535,93;True
+Qualita' fasi + Bilanciata finanziato;2016-04-01;superata;37;1,25;superata;43,0;aperta;12050,3;95424,73;True
+Qualita' fasi + Bilanciata finanziato;2016-05-01;superata;14;1,128;superata;2,0;aperta;7165,87;113519,88;True
+Qualita' fasi + Bilanciata finanziato;2016-06-01;superata;40;1,191;superata;3,0;aperta;9058,96;95016,01;True
+Qualita' fasi + Bilanciata finanziato;2016-07-01;superata;12;1,125;superata;7,0;aperta;12050,3;95424,73;True
+Qualita' fasi + Bilanciata finanziato;2016-08-01;superata;2;1,198;superata;23,0;aperta;0,0;92576,9;True
+Qualita' fasi + Bilanciata finanziato;2016-09-01;superata;7;2,453;superata;33,0;persa;3868,69;91032,45;True
+Qualita' fasi + Bilanciata finanziato;2016-10-01;superata;7;1,387;superata;12,0;persa;3868,69;91032,45;True
+Qualita' fasi + Bilanciata finanziato;2016-11-01;superata;1;0,24;superata;1,0;persa;201,93;91032,45;True
+Qualita' fasi + Bilanciata finanziato;2016-12-01;superata;9;1,17;superata;7,0;persa;0,0;91047,0;True
+Qualita' fasi + Bilanciata finanziato;2017-01-01;persa;56;1,35;;;;0,0;;False
+Qualita' fasi + Bilanciata finanziato;2017-02-01;persa;46;1,07;;;;0,0;;False
+Qualita' fasi + Bilanciata finanziato;2017-03-01;superata;117;1,375;superata;60,0;aperta;0,0;103833,2;True
+Qualita' fasi + Bilanciata finanziato;2017-04-01;superata;92;1,131;superata;3,0;aperta;5622,58;93519,41;True
+Qualita' fasi + Bilanciata finanziato;2017-05-01;superata;16;1,337;superata;59,0;aperta;13107,33;93970,54;True
+Qualita' fasi + Bilanciata finanziato;2017-06-01;superata;57;1,499;superata;4,0;aperta;5622,58;93519,41;True
+Qualita' fasi + Bilanciata finanziato;2017-07-01;superata;35;1,412;superata;4,0;aperta;5622,58;93519,41;True
+Qualita' fasi + Bilanciata finanziato;2017-08-01;superata;15;1,011;superata;4,0;aperta;5622,58;93519,41;True
+Qualita' fasi + Bilanciata finanziato;2017-09-01;superata;161;1,692;superata;123,0;aperta;23471,96;98392,13;True
+Qualita' fasi + Bilanciata finanziato;2017-10-01;superata;13;1,096;superata;19,0;aperta;3550,49;101550,39;True
+Qualita' fasi + Bilanciata finanziato;2017-11-01;superata;129;1,692;superata;118,0;aperta;23471,96;98392,13;True
+Qualita' fasi + Bilanciata finanziato;2017-12-01;superata;202;1,692;superata;17,0;aperta;24845,84;94771,28;True
+Qualita' fasi + Bilanciata finanziato;2018-01-01;superata;87;1,625;superata;118,0;aperta;23471,96;98392,13;True
+Qualita' fasi + Bilanciata finanziato;2018-02-01;superata;67;1,653;superata;118,0;aperta;23471,96;98392,13;True
+Qualita' fasi + Bilanciata finanziato;2018-03-01;superata;43;1,508;superata;126,0;aperta;23471,96;98392,13;True
+Qualita' fasi + Bilanciata finanziato;2018-04-01;superata;10;1,25;superata;4,0;aperta;17225,08;113279,97;True
+Qualita' fasi + Bilanciata finanziato;2018-05-01;superata;106;1,625;superata;17,0;aperta;24845,84;94771,28;True
+Qualita' fasi + Bilanciata finanziato;2018-06-01;superata;41;1,5;superata;66,0;aperta;23471,96;98392,13;True
+Qualita' fasi + Bilanciata finanziato;2018-07-01;superata;20;1,075;superata;66,0;aperta;23471,96;98392,13;True
+Qualita' fasi + Bilanciata finanziato;2018-08-01;superata;64;1,374;superata;3,0;aperta;23471,96;98392,13;True
+Qualita' fasi + Bilanciata finanziato;2018-09-01;superata;26;1,375;superata;16,0;aperta;24845,84;94771,28;True
+Qualita' fasi + Bilanciata finanziato;2018-10-01;superata;24;1,25;superata;6,0;aperta;23471,96;98392,13;True
+Qualita' fasi + Bilanciata finanziato;2018-11-01;superata;8;0,78;superata;3,0;aperta;17416,94;100116,25;True
+Qualita' fasi + Bilanciata finanziato;2018-12-01;superata;17;1,0;superata;4,0;aperta;15602,15;99709,33;True
+Qualita' fasi + Bilanciata finanziato;2019-01-01;superata;7;1,125;superata;9,0;aperta;14461,06;108637,19;True
+Qualita' fasi + Bilanciata finanziato;2019-02-01;superata;30;1,395;superata;50,0;aperta;27545,41;100230,88;True
+Qualita' fasi + Bilanciata finanziato;2019-03-01;superata;10;1,0;superata;4,0;aperta;12932,97;119230,94;True
+Qualita' fasi + Bilanciata finanziato;2019-04-01;superata;45;1,073;superata;16,0;aperta;25146,39;97283,51;True
+Qualita' fasi + Bilanciata finanziato;2019-05-01;superata;25;0,948;superata;1,0;aperta;27898,63;102386,04;True
+Qualita' fasi + Bilanciata finanziato;2019-06-01;superata;5;0,948;superata;1,0;aperta;27898,63;102386,04;True
+Qualita' fasi + Bilanciata finanziato;2019-07-01;superata;23;1,481;superata;23,0;aperta;22811,5;98662,91;True
+Qualita' fasi + Bilanciata finanziato;2019-08-01;superata;1;0,902;superata;20,0;aperta;22811,5;98662,91;True
+Qualita' fasi + Bilanciata finanziato;2019-09-01;superata;4;1,287;superata;12,0;aperta;19782,7;96212,44;True
+Qualita' fasi + Bilanciata finanziato;2019-10-01;superata;9;1,432;superata;29,0;aperta;12929,62;98162,8;True
+Qualita' fasi + Bilanciata finanziato;2019-11-01;superata;37;1,657;superata;20,0;aperta;7703,3;96699,24;True
+Qualita' fasi + Bilanciata finanziato;2019-12-01;superata;1;1,338;superata;44,0;aperta;6152,26;98344,19;True
+Qualita' fasi + Bilanciata finanziato;2020-01-01;superata;29;1,657;superata;2,0;aperta;3171,73;99506,47;True
+Qualita' fasi + Bilanciata finanziato;2020-02-01;superata;10;0,75;superata;2,0;aperta;3171,73;99506,47;True
+Qualita' fasi + Bilanciata finanziato;2020-03-01;superata;136;1,739;persa;82,0;;0,0;;False
+Qualita' fasi + Bilanciata finanziato;2020-04-01;superata;51;1,435;superata;66,0;persa;3540,43;91000,23;True
+Qualita' fasi + Bilanciata finanziato;2020-05-01;superata;35;1,435;superata;66,0;persa;3540,43;91000,23;True
+Qualita' fasi + Bilanciata finanziato;2020-06-01;superata;18;1,249;superata;2,0;aperta;5840,06;91699,75;True
+Qualita' fasi + Bilanciata finanziato;2020-07-01;persa;148;1,407;;;;0,0;;False
+Qualita' fasi + Bilanciata finanziato;2020-08-01;superata;7;1,04;superata;14,0;persa;806,15;91000,23;True
+Qualita' fasi + Bilanciata finanziato;2020-09-01;persa;105;0,966;;;;0,0;;False
+Qualita' fasi + Bilanciata finanziato;2020-10-01;persa;88;1,347;;;;0,0;;False
+Qualita' fasi + Bilanciata finanziato;2020-11-01;persa;91;1,347;;;;0,0;;False
+Qualita' fasi + Bilanciata finanziato;2020-12-01;superata;118;1,172;superata;1,0;aperta;5831,38;95017,4;True
+Qualita' fasi + Bilanciata finanziato;2021-01-01;superata;4;1,135;superata;87,0;aperta;5815,64;94208,3;True
+Qualita' fasi + Bilanciata finanziato;2021-02-01;superata;73;1,1;superata;9,0;aperta;5761,32;95883,92;True
+Qualita' fasi + Bilanciata finanziato;2021-03-01;superata;24;1,424;superata;29,0;aperta;9647,38;95257,24;True
+Qualita' fasi + Bilanciata finanziato;2021-04-01;superata;26;1,25;superata;6,0;aperta;9647,38;95257,24;True
+Qualita' fasi + Bilanciata finanziato;2021-05-01;superata;14;0,964;superata;1,0;aperta;6048,81;94203,35;True
+Qualita' fasi + Bilanciata finanziato;2021-06-01;superata;50;1,463;superata;3,0;aperta;4585,01;96933,68;True
+Qualita' fasi + Bilanciata finanziato;2021-07-01;superata;40;1,374;superata;21,0;aperta;0,0;96956,47;True
+Qualita' fasi + Bilanciata finanziato;2021-08-01;superata;21;1,374;superata;21,0;aperta;0,0;96956,47;True
+Qualita' fasi + Bilanciata finanziato;2021-09-01;superata;22;1,479;superata;11,0;aperta;0,0;97614,59;True
+Qualita' fasi + Bilanciata finanziato;2021-10-01;superata;2;0,682;superata;10,0;aperta;0,0;97614,59;True
+Qualita' fasi + Bilanciata finanziato;2021-11-01;superata;123;1,375;superata;11,0;aperta;0,0;94872,46;True
+Qualita' fasi + Bilanciata finanziato;2021-12-01;superata;102;1,543;superata;11,0;aperta;0,0;94872,46;True
+Qualita' fasi + Bilanciata finanziato;2022-01-01;superata;81;1,677;superata;11,0;aperta;0,0;94872,46;True
+Qualita' fasi + Bilanciata finanziato;2022-02-01;superata;62;1,124;superata;11,0;aperta;0,0;94872,46;True
+Qualita' fasi + Bilanciata finanziato;2022-03-01;superata;44;1,19;superata;11,0;aperta;0,0;94872,46;True
+Qualita' fasi + Bilanciata finanziato;2022-04-01;superata;4;1,692;superata;10,0;aperta;14918,1;96235,56;True
+Qualita' fasi + Bilanciata finanziato;2022-05-01;superata;4;0,973;superata;11,0;aperta;0,0;94872,46;True
+Qualita' fasi + Bilanciata finanziato;2022-06-01;superata;145;1,749;superata;143,0;persa;0,0;91025,32;True
+Qualita' fasi + Bilanciata finanziato;2022-07-01;superata;125;1,624;superata;143,0;persa;0,0;91025,32;True
+Qualita' fasi + Bilanciata finanziato;2022-08-01;superata;115;1,376;superata;136,0;persa;0,0;91025,32;True
+Qualita' fasi + Bilanciata finanziato;2022-09-01;superata;76;1,365;superata;8,0;aperta;6274,66;98171,1;True
+Qualita' fasi + Bilanciata finanziato;2022-10-01;superata;50;1,492;superata;4,0;aperta;8308,37;97499,57;True
+Qualita' fasi + Bilanciata finanziato;2022-11-01;superata;36;1,499;superata;8,0;aperta;6274,66;98171,1;True
+Qualita' fasi + Bilanciata finanziato;2022-12-01;superata;11;1,443;superata;4,0;aperta;8308,37;97499,57;True
+Qualita' fasi + Bilanciata finanziato;2023-01-01;superata;150;1,621;superata;12,0;persa;0,0;91000,07;True
+Qualita' fasi + Bilanciata finanziato;2023-02-01;superata;132;1,515;superata;12,0;persa;0,0;91000,07;True
+Qualita' fasi + Bilanciata finanziato;2023-03-01;superata;50;2,219;superata;63,0;persa;0,0;91025,32;True
+Qualita' fasi + Bilanciata finanziato;2023-04-01;superata;29;1,786;superata;63,0;persa;0,0;91025,32;True
+Qualita' fasi + Bilanciata finanziato;2023-05-01;superata;76;1,322;superata;12,0;persa;0,0;91000,07;True
+Qualita' fasi + Bilanciata finanziato;2023-06-01;superata;56;1,503;superata;12,0;persa;0,0;91000,07;True
+Qualita' fasi + Bilanciata finanziato;2023-07-01;superata;35;1,125;superata;12,0;persa;0,0;91000,07;True
+Qualita' fasi + Bilanciata finanziato;2023-08-01;superata;7;0,68;superata;9,0;persa;0,0;91025,32;True
+Qualita' fasi + Bilanciata finanziato;2023-09-01;persa;59;1,229;;;;0,0;;False
+Qualita' fasi + Bilanciata finanziato;2023-10-01;persa;52;1,853;;;;0,0;;False
+Qualita' fasi + Bilanciata finanziato;2023-11-01;aperta;234;1,44;;;;0,0;;False
+Qualita' fasi + Bilanciata finanziato;2023-12-01;superata;20;0,849;superata;2,0;aperta;0,0;98577,4;True
+Qualita' fasi + Bilanciata finanziato;2024-01-01;superata;1;0,093;superata;1,0;aperta;0,0;96545,39;True
+Qualita' fasi + Bilanciata finanziato;2024-02-01;superata;41;1,387;superata;6,0;aperta;532,85;96412,48;True
+Qualita' fasi + Bilanciata finanziato;2024-03-01;superata;22;1,387;superata;6,0;aperta;532,85;96412,48;True
+Qualita' fasi + Bilanciata finanziato;2024-04-01;superata;11;1,798;superata;153,0;aperta;24392,79;97789,95;True
+Qualita' fasi + Bilanciata finanziato;2024-05-01;superata;144;1,798;superata;7,0;aperta;22085,33;96466,88;True
+Qualita' fasi + Bilanciata finanziato;2024-06-01;superata;114;1,627;superata;11,0;aperta;24392,79;97789,95;True
+Qualita' fasi + Bilanciata finanziato;2024-07-01;superata;80;1,602;superata;11,0;aperta;19044,44;109859,59;True
+Qualita' fasi + Bilanciata finanziato;2024-08-01;superata;78;1,183;superata;11,0;aperta;24392,79;97789,95;True
+Qualita' fasi + Bilanciata finanziato;2024-09-01;superata;39;1,4;superata;11,0;aperta;19044,44;109859,59;True
+Qualita' fasi + Bilanciata finanziato;2024-10-01;superata;19;0,956;superata;11,0;aperta;19044,44;109859,59;True
+Qualita' fasi + Bilanciata finanziato;2024-11-01;superata;26;1,798;superata;7,0;aperta;22085,33;96466,88;True
+Qualita' fasi + Bilanciata finanziato;2024-12-01;superata;13;1,124;superata;2,0;aperta;20354,68;95894,19;True
+Qualita' fasi + Bilanciata finanziato;2025-01-01;superata;83;1,257;superata;9,0;persa;0,0;91040,63;True
+Qualita' fasi + Bilanciata finanziato;2025-02-01;superata;13;1,131;superata;50,0;aperta;7907,98;91987,59;True
+Qualita' fasi + Bilanciata finanziato;2025-03-01;superata;52;1,243;superata;6,0;persa;0,0;91040,63;True
+Qualita' fasi + Bilanciata finanziato;2025-04-01;superata;17;0,999;superata;10,0;aperta;7907,98;91987,59;True
+Qualita' fasi + Bilanciata finanziato;2025-05-01;superata;18;1,249;superata;30,0;aperta;0,0;92382,86;True
+Qualita' fasi + Bilanciata finanziato;2025-06-01;superata;51;1,486;superata;114,0;aperta;0,0;96408,94;True
+Qualita' fasi + Bilanciata finanziato;2025-07-01;superata;11;1,355;superata;19,0;aperta;472,66;105186,02;True
+Qualita' fasi + Bilanciata finanziato;2025-08-01;superata;13;1,486;superata;114,0;aperta;0,0;96408,94;True
+Qualita' fasi + Bilanciata finanziato;2025-09-01;aperta;227;1,623;;;;0,0;;False
+Qualita' fasi + Bilanciata finanziato;2025-10-01;superata;94;1,191;superata;130,0;aperta;0,0;101641,88;True
+Qualita' fasi + Bilanciata finanziato;2025-11-01;superata;55;1,238;superata;14,0;aperta;0,0;96408,94;True
+Qualita' fasi + Bilanciata finanziato;2025-12-01;superata;40;1,072;superata;14,0;aperta;0,0;96408,94;True
+Qualita' fasi + Bilanciata finanziato;2026-01-01;superata;20;1,103;superata;2,0;aperta;7038,06;97679,49;True
+Qualita' fasi + Bilanciata finanziato;2026-02-01;superata;2;1,072;superata;13,0;aperta;0,0;96408,94;True
+Qualita' fasi + Bilanciata finanziato;2026-03-01;superata;145;1,499;;;;0,0;;False
+Qualita' - punteggio costruito solo fino al 2021;2022-01-01;superata;65;1,499;superata;4,0;aperta;18006,57;95847,33;True
+Qualita' - punteggio costruito solo fino al 2021;2022-02-01;superata;63;1,311;superata;10,0;aperta;702,37;95218,78;True
+Qualita' - punteggio costruito solo fino al 2021;2022-03-01;superata;44;1,343;superata;10,0;aperta;702,37;95218,78;True
+Qualita' - punteggio costruito solo fino al 2021;2022-04-01;superata;10;1,681;superata;3,0;aperta;16060,42;95733,01;True
+Qualita' - punteggio costruito solo fino al 2021;2022-05-01;superata;4;0,974;superata;10,0;aperta;702,37;95218,78;True
+Qualita' - punteggio costruito solo fino al 2021;2022-06-01;superata;148;1,554;superata;9,0;aperta;0,0;94447,74;True
+Qualita' - punteggio costruito solo fino al 2021;2022-07-01;superata;117;1,749;superata;9,0;aperta;3345,01;96997,8;True
+Qualita' - punteggio costruito solo fino al 2021;2022-08-01;superata;109;1,648;superata;9,0;aperta;0,0;94447,74;True
+Qualita' - punteggio costruito solo fino al 2021;2022-09-01;superata;77;1,554;superata;9,0;aperta;3345,01;96997,8;True
+Qualita' - punteggio costruito solo fino al 2021;2022-10-01;superata;12;1,466;superata;43,0;aperta;4490,82;96897,48;True
+Qualita' - punteggio costruito solo fino al 2021;2022-11-01;superata;37;1,554;superata;9,0;aperta;3345,01;96997,8;True
+Qualita' - punteggio costruito solo fino al 2021;2022-12-01;superata;11;1,762;superata;4,0;aperta;4490,82;96897,48;True
+Qualita' - punteggio costruito solo fino al 2021;2023-01-01;superata;155;2,271;persa;66,0;;0,0;;False
+Qualita' - punteggio costruito solo fino al 2021;2023-02-01;superata;153;1,675;persa;50,0;;0,0;;False
+Qualita' - punteggio costruito solo fino al 2021;2023-03-01;superata;26;2,315;superata;3,0;aperta;3663,01;95398,67;True
+Qualita' - punteggio costruito solo fino al 2021;2023-04-01;superata;12;2,039;superata;86,0;persa;989,66;91000,08;True
+Qualita' - punteggio costruito solo fino al 2021;2023-05-01;superata;96;1,366;persa;50,0;;0,0;;False
+Qualita' - punteggio costruito solo fino al 2021;2023-06-01;superata;21;2,308;superata;38,0;persa;989,66;91000,08;True
+Qualita' - punteggio costruito solo fino al 2021;2023-07-01;superata;38;1,19;persa;66,0;;0,0;;False
+Qualita' - punteggio costruito solo fino al 2021;2023-08-01;superata;7;0,975;superata;9,0;persa;989,66;91000,08;True
+Qualita' - punteggio costruito solo fino al 2021;2023-09-01;persa;61;1,058;;;;0,0;;False
+Qualita' - punteggio costruito solo fino al 2021;2023-10-01;persa;48;1,554;;;;0,0;;False
+Qualita' - punteggio costruito solo fino al 2021;2023-11-01;aperta;239;1,483;;;;0,0;;False
+Qualita' - punteggio costruito solo fino al 2021;2023-12-01;superata;24;1,445;superata;221,0;aperta;21583,15;100695,87;True
+Qualita' - punteggio costruito solo fino al 2021;2024-01-01;superata;1;0,333;superata;1,0;aperta;0,0;94888,97;True
+Qualita' - punteggio costruito solo fino al 2021;2024-02-01;superata;14;1,506;superata;191,0;aperta;21583,15;100695,87;True
+Qualita' - punteggio costruito solo fino al 2021;2024-03-01;superata;187;1,546;superata;7,0;aperta;15052,04;97886,49;True
+Qualita' - punteggio costruito solo fino al 2021;2024-04-01;superata;169;1,776;superata;7,0;aperta;15052,04;97886,49;True
+Qualita' - punteggio costruito solo fino al 2021;2024-05-01;superata;148;1,596;superata;7,0;aperta;15052,04;97886,49;True
+Qualita' - punteggio costruito solo fino al 2021;2024-06-01;superata;128;1,841;superata;7,0;aperta;15052,04;97886,49;True
+Qualita' - punteggio costruito solo fino al 2021;2024-07-01;superata;90;1,652;superata;21,0;aperta;21583,15;100695,87;True
+Qualita' - punteggio costruito solo fino al 2021;2024-08-01;superata;87;1,871;superata;3,0;aperta;21583,15;100695,87;True
+Qualita' - punteggio costruito solo fino al 2021;2024-09-01;superata;48;1,612;superata;21,0;aperta;21583,15;100695,87;True
+Qualita' - punteggio costruito solo fino al 2021;2024-10-01;superata;19;0,999;superata;8,0;aperta;20968,5;98762,44;True
+Qualita' - punteggio costruito solo fino al 2021;2024-11-01;superata;24;1,871;superata;3,0;aperta;21583,15;100695,87;True
+Qualita' - punteggio costruito solo fino al 2021;2024-12-01;superata;7;1,337;superata;7,0;aperta;15052,04;97886,49;True
+Qualita' - punteggio costruito solo fino al 2021;2025-01-01;superata;100;1,498;superata;171,0;persa;3755,46;91023,55;True
+Qualita' - punteggio costruito solo fino al 2021;2025-02-01;superata;14;1,339;superata;52,0;aperta;5665,8;92683,87;True
+Qualita' - punteggio costruito solo fino al 2021;2025-03-01;superata;50;1,374;superata;10,0;aperta;0,0;94664,12;True
+Qualita' - punteggio costruito solo fino al 2021;2025-04-01;superata;17;1,151;superata;12,0;aperta;5665,8;92683,87;True
+Qualita' - punteggio costruito solo fino al 2021;2025-05-01;superata;21;1,498;superata;171,0;persa;3755,46;91023,55;True
+Qualita' - punteggio costruito solo fino al 2021;2025-06-01;superata;180;1,498;persa;40,0;;0,0;;False
+Qualita' - punteggio costruito solo fino al 2021;2025-07-01;superata;151;1,77;superata;6,0;persa;0,0;91023,55;True
+Qualita' - punteggio costruito solo fino al 2021;2025-08-01;superata;13;1,77;superata;109,0;persa;6625,55;91023,55;True
+Qualita' - punteggio costruito solo fino al 2021;2025-09-01;superata;120;1,739;persa;40,0;;0,0;;False
+Qualita' - punteggio costruito solo fino al 2021;2025-10-01;superata;85;1,403;superata;14,0;persa;0,0;91023,55;True
+Qualita' - punteggio costruito solo fino al 2021;2025-11-01;superata;62;1,74;superata;14,0;persa;0,0;91023,55;True
+Qualita' - punteggio costruito solo fino al 2021;2025-12-01;superata;44;1,622;superata;14,0;persa;0,0;91023,55;True
+Qualita' - punteggio costruito solo fino al 2021;2026-01-01;superata;23;1,458;superata;14,0;persa;0,0;91023,55;True
+Qualita' - punteggio costruito solo fino al 2021;2026-02-01;superata;2;0,867;superata;5,0;persa;3779,32;91023,55;True
+Qualita' - punteggio costruito solo fino al 2021;2026-03-01;persa;40;1,413;;;;0,0;;False
+Bilanciata - punteggio costruito solo fino al 2021;2022-01-01;superata;6;1,374;superata;26,0;aperta;31516,64;93123,28;True
+Bilanciata - punteggio costruito solo fino al 2021;2022-02-01;superata;13;1,234;superata;11,0;aperta;26428,75;95051,58;True
+Bilanciata - punteggio costruito solo fino al 2021;2022-03-01;superata;16;1,372;superata;21,0;aperta;13737,98;97017,94;True
+Bilanciata - punteggio costruito solo fino al 2021;2022-04-01;superata;4;1,149;superata;4,0;aperta;19596,58;95725,88;True
+Bilanciata - punteggio costruito solo fino al 2021;2022-05-01;superata;4;1,091;superata;10,0;aperta;0,0;94100,1;True
+Bilanciata - punteggio costruito solo fino al 2021;2022-06-01;persa;125;0,862;;;;0,0;;False
+Bilanciata - punteggio costruito solo fino al 2021;2022-07-01;persa;107;1,311;;;;0,0;;False
+Bilanciata - punteggio costruito solo fino al 2021;2022-08-01;persa;87;1,682;;;;0,0;;False
+Bilanciata - punteggio costruito solo fino al 2021;2022-09-01;persa;65;0,968;;;;0,0;;False
+Bilanciata - punteggio costruito solo fino al 2021;2022-10-01;superata;12;1,511;superata;7,0;aperta;14529,93;98740,35;True
+Bilanciata - punteggio costruito solo fino al 2021;2022-11-01;superata;36;1,704;superata;79,0;aperta;11207,39;96766,94;True
+Bilanciata - punteggio costruito solo fino al 2021;2022-12-01;superata;11;1,134;superata;4,0;aperta;3112,48;96958,61;True
+Bilanciata - punteggio costruito solo fino al 2021;2023-01-01;superata;162;2,235;superata;92,0;persa;0,0;91023,21;True
+Bilanciata - punteggio costruito solo fino al 2021;2023-02-01;superata;140;1,612;superata;92,0;persa;0,0;91023,21;True
+Bilanciata - punteggio costruito solo fino al 2021;2023-03-01;superata;27;2,53;superata;4,0;aperta;10974,98;96371,05;True
+Bilanciata - punteggio costruito solo fino al 2021;2023-04-01;superata;10;1,327;superata;88,0;aperta;0,0;102345,65;True
+Bilanciata - punteggio costruito solo fino al 2021;2023-05-01;superata;82;1,499;superata;92,0;persa;0,0;91023,21;True
+Bilanciata - punteggio costruito solo fino al 2021;2023-06-01;superata;60;2,257;superata;92,0;persa;0,0;91023,21;True
+Bilanciata - punteggio costruito solo fino al 2021;2023-07-01;superata;38;1,391;superata;92,0;persa;0,0;91023,21;True
+Bilanciata - punteggio costruito solo fino al 2021;2023-08-01;superata;17;1,303;superata;92,0;persa;0,0;91023,21;True
+Bilanciata - punteggio costruito solo fino al 2021;2023-09-01;superata;88;1,184;persa;68,0;;0,0;;False
+Bilanciata - punteggio costruito solo fino al 2021;2023-10-01;superata;67;1,458;persa;68,0;;0,0;;False
+Bilanciata - punteggio costruito solo fino al 2021;2023-11-01;superata;47;2,22;persa;68,0;;0,0;;False
+Bilanciata - punteggio costruito solo fino al 2021;2023-12-01;superata;21;1,502;superata;2,0;persa;0,0;91005,15;True
+Bilanciata - punteggio costruito solo fino al 2021;2024-01-01;superata;1;0,332;superata;1,0;persa;0,0;91055,9;True
+Bilanciata - punteggio costruito solo fino al 2021;2024-02-01;persa;69;1,281;;;;0,0;;False
+Bilanciata - punteggio costruito solo fino al 2021;2024-03-01;persa;47;1,172;;;;0,0;;False
+Bilanciata - punteggio costruito solo fino al 2021;2024-04-01;superata;171;1,374;superata;3,0;aperta;25648,7;102526,62;True
+Bilanciata - punteggio costruito solo fino al 2021;2024-05-01;superata;154;1,374;superata;3,0;aperta;25648,7;102526,62;True
+Bilanciata - punteggio costruito solo fino al 2021;2024-06-01;superata;122;1,561;superata;6,0;aperta;33141,3;99783,68;True
+Bilanciata - punteggio costruito solo fino al 2021;2024-07-01;superata;10;1,374;superata;90,0;aperta;21450,44;118171,58;True
+Bilanciata - punteggio costruito solo fino al 2021;2024-08-01;superata;62;1,332;superata;4,0;aperta;26412,53;110604,42;True
+Bilanciata - punteggio costruito solo fino al 2021;2024-09-01;superata;22;1,256;superata;8,0;aperta;32540,34;102046,6;True
+Bilanciata - punteggio costruito solo fino al 2021;2024-10-01;superata;19;1,161;superata;4,0;aperta;26412,53;110604,42;True
+Bilanciata - punteggio costruito solo fino al 2021;2024-11-01;superata;14;1,374;superata;6,0;aperta;33141,3;99783,68;True
+Bilanciata - punteggio costruito solo fino al 2021;2024-12-01;superata;8;1,439;superata;9,0;aperta;22231,61;97704,17;True
+Bilanciata - punteggio costruito solo fino al 2021;2025-01-01;superata;71;1,529;superata;6,0;aperta;5260,16;94167,3;True
+Bilanciata - punteggio costruito solo fino al 2021;2025-02-01;superata;16;1,173;superata;31,0;aperta;12002,28;94727,97;True
+Bilanciata - punteggio costruito solo fino al 2021;2025-03-01;superata;35;1,197;superata;1,0;aperta;6586,45;93316,49;True
+Bilanciata - punteggio costruito solo fino al 2021;2025-04-01;superata;8;1,082;superata;6,0;aperta;5260,16;94167,3;True
+Bilanciata - punteggio costruito solo fino al 2021;2025-05-01;superata;13;1,469;persa;92,0;;0,0;;False
+Bilanciata - punteggio costruito solo fino al 2021;2025-06-01;superata;187;1,418;persa;37,0;;0,0;;False
+Bilanciata - punteggio costruito solo fino al 2021;2025-07-01;superata;15;1,357;superata;133,0;persa;2277,19;91000,2;True
+Bilanciata - punteggio costruito solo fino al 2021;2025-08-01;superata;14;1,374;superata;112,0;persa;2277,19;91000,2;True
+Bilanciata - punteggio costruito solo fino al 2021;2025-09-01;superata;109;1,418;superata;13,0;persa;0,0;91000,2;True
+Bilanciata - punteggio costruito solo fino al 2021;2025-10-01;superata;86;1,63;superata;18,0;persa;0,0;91013,29;True
+Bilanciata - punteggio costruito solo fino al 2021;2025-11-01;superata;63;1,286;superata;18,0;persa;0,0;91013,29;True
+Bilanciata - punteggio costruito solo fino al 2021;2025-12-01;superata;45;1,551;superata;18,0;persa;0,0;91013,29;True
+Bilanciata - punteggio costruito solo fino al 2021;2026-01-01;superata;23;1,234;superata;18,0;persa;0,0;91013,29;True
+Bilanciata - punteggio costruito solo fino al 2021;2026-02-01;superata;2;1,038;superata;13,0;persa;0,0;91000,2;True
+Bilanciata - punteggio costruito solo fino al 2021;2026-03-01;persa;37;1,372;;;;0,0;;False
